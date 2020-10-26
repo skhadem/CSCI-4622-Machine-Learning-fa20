@@ -16,21 +16,21 @@
 | | 9/2 | Chapter 3 | K-Nearest Neighbors  |  [slides](../slides/lec5.pdf) | |
 | | 9/4 |  Chapter 4 | Perceptron |  [slides](../slides/lec6.pdf) | |
 | 3 | 9/7 |  | Labor day  |  | |
-| | 9/9 |  | Hands on decision KNN and perceptron |  |  |
-| | 9/11 | Chapter 5 | Feature Engineering |   | HW1 due |
-| 4 | 9/14 | Chapter 9 & Chapter 7 | Logistic regression|  | |
-| | 9/16 | Chapter 7 | Stochastic gradient part 1 |  |
-| | 9/18 | Chapter 14  | Stochastic gradient part 2  |  | |
-| 5 | 9/21 | Chapter 5 | Validation  | | |
-| | 9/23 |Chapter 5 | Evaluation metrics  |  | |
-| | 9/25 |Chapter 6 |Multiclass classification|  | HW2 due |
-| 6 | 9/28 | |   Hands on validation and evaluation metrics |  | |
+| | 9/9 |  | Hands on decision KNN and perceptron | [Notebooks](../in-class-notebooks) |  |
+| | 9/11 | Chapter 5 | Feature Engineering |  [slides](../slides/lec7.pdf) | HW1 due |
+| 4 | 9/14 | Chapter 9 & Chapter 7 | Logistic regression| [slides](../slides/lec8.pdf) | |
+| | 9/16 | Chapter 7 | Stochastic gradient part 1 | [slides](../slides/lec9.pdf) |
+| | 9/18 | Chapter 14  | Stochastic gradient part 2  | [slides](../slides/lec10.pdf)/[Notebooks](../in-class-notebooks)  | |
+| 5 | 9/21 | Chapter 5 | Hands on Stochastic gradient  |  [Notebooks](../in-class-notebooks) | |
+| | 9/23 |Chapter 5 | Validation & Evaluation metrics  | [slides](../slides/lec11.pdf) | |
+| | 9/25 |Chapter 6 |Multiclass classification|[slides](../slides/lec12.pdf)   | HW2 due |
+| 6 | 9/28 | |   Hands on validation and evaluation metrics | [Notebooks](../in-class-notebooks) | |
 | | 9/30 |  | Prelim 1 (week 1, 2, 3, 4) |  | |
-| | 10/2 | Chapter 10 | Neural Nets and MLP 	 |  |  |
-| 7 | 10/5 |  Chapter 10 | Neural network architecture | | |
-| | 10/7 | Chapter 10 | Back Propagation Part 1 |  | |
-| | 10/9 | Chapter 10 | Back Propagation Part 2 |   | Final project team formation due|
-| 8 | 10/12 | | Hands on Neural nets	 |  | |
+| | 10/2 | Chapter 10 | Neural Nets and MLP 	 | [slides](../slides/lec13.pdf)  |  |
+| 7 | 10/5 |  Chapter 10 | Neural network architecture | [slides](../slides/lec14.pdf) | |
+| | 10/7 | Chapter 10 | Back Propagation Part 1 | [slides](../slides/lec15.pdf) | |
+| | 10/9 | Chapter 10 | Back Propagation Part 2 |  [slides](../slides/lec15.pdf) | Final project team formation due|
+| 8 | 10/12 | | Hands on Neural nets	 | [Notebooks](../in-class-notebooks) | |
 | | 10/14 | Chapter 7  | Hard-Margin SVM | | |
 | | 10/16 | | Soft-Margin SVM Part 1 |  | HW3  due |
 | 9 | 10/19 | [Additional reading](https://cs.stanford.edu/people/davidknowles/lagrangian_duality.pdf) | Soft-Margin SVM Part 2 |  | |
