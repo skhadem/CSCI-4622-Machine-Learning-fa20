@@ -19,3 +19,4 @@ moss/
 *.fdb_latexmk
 *.synctex.gz
 *log*
+*tune_results*
