@@ -37,9 +37,9 @@
 | | 10/21 | Chapter 11 | Kernel trick | [slides](../slides/lec18.pdf)   | |
 | | 10/23 |  | Hands on SVM | [Notebooks](../in-class-notebooks)  | Final project proposal due |
 | 10 | 10/26 |  |  Hands on SVM continued   | [Notebooks](../in-class-notebooks)  | |
-| | 10/28 | | Bagging and Random Forests 	| | |
-| | 10/30 | | Boosted Decision Trees  | | HW4 due |
-| 11 | 11/2 | | Hands-On AdaBoost  | | |
+| | 10/28 | | Bagging and Random Forests 	| [slides](../slides/lec19.pdf)  | |
+| | 10/30 | | Boosted Decision Trees  | [slides](../slides/lec20.pdf)  | HW4 due |
+| 11 | 11/2 | | Hands-On AdaBoost  | [Notebooks](../in-class-notebooks)  | |
 | | 11/4 | Chapter 15  |  Unsupervised learning |    | |
 | | 11/6 | | Prelim 2 (Week 5, 6, 7, 8)  | |  |
 | 12 | 11/9 | |   Dimensionality reduction, PCA/SVD  | | |
